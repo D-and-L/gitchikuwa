@@ -5,3 +5,4 @@
 * git add -  Add file contents to the index
 * git log - Show commit log
 * git status -  Show the working tree status
+* пара коммитов лишние, они были добавлены случайно и я решил взять только те команды, которые рассматривались на семинаре
