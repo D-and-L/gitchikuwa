@@ -4,3 +4,4 @@
 * git commit - создание коммита
 * git add -  Add file contents to the index
 * git log - Show commit log
+* git status -  Show the working tree status
